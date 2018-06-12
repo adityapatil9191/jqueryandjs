@@ -1,0 +1,24 @@
+.container{
+	display:flex;
+}
+
+a{
+	font-size:25px;
+	color:white;
+	text-decoration:none;
+	
+}
+
+p{
+	font-size:20px;
+}
+
+.container.mycontainer{
+	background-color: #3B5998;
+	border:4px solid #000080;
+}
+
+.container.paracontainer{
+	border:2px solid #000080;
+	background-color:#00ced1;
+}
